@@ -461,6 +461,9 @@ footer .news a:hover {
     display: block;
     margin-top: 40px;
   }
+   .hero #home .cont {
+  width: 350px;
+  }
   #services {
     display: flex;
     flex-direction: column;
@@ -525,8 +528,7 @@ footer .news a:hover {
   .hero #home h1 {
     font-size: 25px;
   }
-  .hero #home .cont {
-  width: 380px;}
+ 
   .hero #home p {
     font-size: 12px;
   }
