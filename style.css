@@ -525,6 +525,8 @@ footer .news a:hover {
   .hero #home h1 {
     font-size: 25px;
   }
+  .hero #home .cont {
+  width: 380px;}
   .hero #home p {
     font-size: 12px;
   }
